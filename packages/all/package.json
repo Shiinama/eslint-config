@@ -5,8 +5,8 @@
   "keywords": [
     "eslint-config"
   ],
-  "author": "Vancats <leiqifan@163.com> (https://github.com/Vancats)",
-  "homepage": "https://github.com/Vancats/eslint-config/tree/main/packages/all#readme",
+  "author": "vancats <leiqifan@163.com> (https://github.com/vancats)",
+  "homepage": "https://github.com/vancats/eslint-config/tree/main/packages/all#readme",
   "license": "MIT",
   "main": "index.js",
   "files": [
@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vancats/eslint-config.git"
+    "url": "git+https://github.com/vancats/eslint-config.git"
   },
   "scripts": {
     "lint": "eslint . --config=index.js"
   },
   "bugs": {
-    "url": "https://github.com/Vancats/eslint-config/issues"
+    "url": "https://github.com/vancats/eslint-config/issues"
   },
   "peerDependencies": {
     "eslint": ">=7.4.0"
