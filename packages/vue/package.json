@@ -1,6 +1,6 @@
 {
   "name": "@vancats/eslint-config-vue",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "eslint-config-vue",
   "keywords": [
     "eslint-config-vue"
