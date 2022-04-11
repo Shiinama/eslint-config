@@ -1,6 +1,6 @@
 {
   "name": "@vancats/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "eslint-config",
   "keywords": [
     "eslint-config"

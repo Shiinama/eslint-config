@@ -1,6 +1,6 @@
 {
   "name": "@vancats/eslint-config-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "eslint-config-typescript",
   "keywords": [
     "eslint-config-typescript"
