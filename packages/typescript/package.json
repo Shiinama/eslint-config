@@ -1,0 +1,41 @@
+{
+  "name": "@vancats/eslint-config-ts",
+  "version": "0.0.1",
+  "description": "eslint-config-typescript",
+  "keywords": [
+    "eslint-config-typescript"
+  ],
+  "author": "Vancats <leiqifan@163.com> (https://github.com/Vancats)",
+  "homepage": "https://github.com/Vancats/eslint-config/tree/main/packages/typescript#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vancats/eslint-config.git"
+  },
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Vancats/eslint-config/issues"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.17.0",
+    "@typescript-eslint/parser": "^5.17.0",
+    "@vancats/eslint-config-basic": "^0.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "typescript": "^4.6.3"
+  }
+}
