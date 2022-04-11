@@ -31,8 +31,8 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.17.0",
     "@typescript-eslint/parser": "^5.17.0",
-    "@vancats/eslint-config-react": "^0.0.3",
-    "@vancats/eslint-config-vue": "^0.0.3",
+    "@vancats/eslint-config-react": "workspace:*",
+    "@vancats/eslint-config-vue": "workspace:*",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^6.2.0",
     "eslint-plugin-import": "^2.25.4",
