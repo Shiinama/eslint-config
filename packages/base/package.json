@@ -1,12 +1,12 @@
 {
-  "name": "@vancats/eslint-config-basic",
+  "name": "@vancats/eslint-config-base",
   "version": "0.0.5",
-  "description": "eslint-config-basic",
+  "description": "eslint-config-base",
   "keywords": [
-    "eslint-config-basic"
+    "eslint-config-base"
   ],
   "author": "vancats <leiqifan@163.com> (https://github.com/vancats)",
-  "homepage": "https://github.com/vancats/eslint-config/tree/main/packages/basic#readme",
+  "homepage": "https://github.com/vancats/eslint-config/tree/main/packages/base#readme",
   "license": "MIT",
   "main": "index.js",
   "files": [

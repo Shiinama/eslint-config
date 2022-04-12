@@ -1,8 +1,8 @@
-const basic = require('@vancats/eslint-config-basic')
+const base = require('@vancats/eslint-config-base')
 
 module.exports = {
   extends: [
-    '@vancats/eslint-config-basic',
+    '@vancats/eslint-config-base',
     'plugin:import/typescript',
     'plugin:@typescript-eslint/recommended',
   ],
@@ -11,7 +11,7 @@ module.exports = {
       node: { extensions: ['.js', '.jsx', '.mjs', '.ts', '.tsx', '.d.ts'] },
     },
   },
-  overrides: basic.overrides,
+  overrides: base.overrides,
   rules: {
     'import/named': 'off',
 

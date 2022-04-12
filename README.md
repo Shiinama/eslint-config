@@ -11,7 +11,7 @@
 # for all-sided
 pnpm add -D eslint @vancats/eslint-config
 # for javascript
-pnpm add -D eslint @vancats/eslint-config-basic
+pnpm add -D eslint @vancats/eslint-config-base
 # for typescript
 pnpm add -D eslint @vancats/eslint-config-ts
 # for react + ts
